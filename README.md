@@ -1,4 +1,4 @@
-# Machine Learning Foundations Practice
+# Machine Learning Foundations
 
 This repository contains my hands-on implementations of fundamental deep learning concepts, focusing on CNNs and RNNs.
 
